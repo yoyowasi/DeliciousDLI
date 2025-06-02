@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "309263354452",
+    "project_id": "deliciousdli",
+    "storage_bucket": "deliciousdli.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309263354452:android:c95945f9c9cad8592ffbc1",
+        "android_client_info": {
+          "package_name": "com.example.deliciousdli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrGX7uEulOfdxMqnzUQQW8l73liuWDrgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
